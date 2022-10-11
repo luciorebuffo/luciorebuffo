@@ -4,7 +4,7 @@
 
 ***I’m Lucio, a programmer technician from the UTN. Full stack developer, passionate about programming with the desire to acquire new knowledge every day and put it into practice.***
 
-<a href="www.linkedin.com/in/luciorebuffo"><img src="https://user-images.githubusercontent.com/23558201/195188682-7f4c8053-c9ef-479c-b28b-26225f299e5e.png" width="50" heigth="50"></img></a>
+<a href="https://www.linkedin.com/in/luciorebuffo"><img src="https://user-images.githubusercontent.com/23558201/195188682-7f4c8053-c9ef-479c-b28b-26225f299e5e.png" width="50" heigth="50"></img></a>
 
 
 ## SKILLS:
